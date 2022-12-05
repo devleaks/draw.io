@@ -6,15 +6,29 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/draw.io](https://draculatheme.com/draw.io).
 
-## Team
+Start draw.io.
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+Select Extrat -> Theme -> Dark if not already done.
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+Select menu Extra -> Configuration...
+
+Copy the *content* of the file extra-configuration.json and paste it into the text area.
+
+Press Apply.
+
+Restart draw.io.
+
+Enjoy.
+
+## What is changed
+
+Set preset colors.
+
+Set preset styles.
+
+Ajusted a few UI colors.
 
 ## Community
 
