@@ -1,34 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [draw.io](https://draw.io)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [draw.io](https://draw.io).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/draw.io](https://draculatheme.com/draw.io).
-
-Start draw.io.
-
-Select Extrat -> Theme -> Dark if not already done.
-
-Select menu Extra -> Configuration...
-
-Copy the *content* of the file extra-configuration.json and paste it into the text area.
-
-Press Apply.
-
-Restart draw.io.
-
-Enjoy.
-
-## What is changed
-
-Set preset colors.
-
-Set preset styles.
-
-Ajusted a few UI colors.
 
 ## Community
 
