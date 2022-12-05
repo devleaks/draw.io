@@ -1,15 +1,51 @@
 {
-    "presetColors": [
-        "282a36",
-        "44475a",
-        "f8f8f2",
-        "6272a4",
-        "8be9fd",
-        "50fa7b",
-        "ffb86c",
-        "ff79c6",
-        "bd93f9",
-        "ff5555",
-        "f1fa8c"
+  "presetColors": [
+    "282a36",
+    "44475a",
+    "f8f8f2",
+    "6272a4",
+    "8be9fd",
+    "50fa7b",
+    "ffb86c",
+    "ff79c6",
+    "bd93f9",
+    "ff5555",
+    "f1fa8c"
+  ],
+  "customColorSchemes": [
+    [
+      {
+        "fill": "#282a36",
+        "stroke": "#44475a"
+      },
+      {
+        "fill": "#44475a",
+        "stroke": "#f8f8f2"
+      },
+      {
+        "fill": "#f8f8f2",
+        "stroke": "#6272a4"
+      },
+      {
+        "fill": "#6272a4",
+        "stroke": "#8be9fd"
+      },
+      {
+        "fill": "#8be9fd",
+        "stroke": "#50fa7b"
+      },
+      {
+        "fill": "#50fa7b",
+        "stroke": "#ffb86c"
+      },
+      {
+        "fill": "#ffb86c",
+        "stroke": "#ff79c6"
+      },
+      {
+        "fill": "#ff79c6",
+        "stroke": "#bd93f9"
+      }
     ]
+  ]
 }
