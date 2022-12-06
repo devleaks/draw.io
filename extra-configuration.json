@@ -47,19 +47,40 @@
             "stroke": "#bd93f9"
         }]
     ],
-    "css": ".geMenubarContainer { background-color: #282a36 !important; } .geMenubar { background-color: #6272a4 !important; } html body .geSidebarContainer a, html body .geMenubarContainer a, html body .geToolbar a { color: #50fa7b !important; } .geActivePage { color:#ff79c6 !important; };",
+    "css": ".geMenubarContainer { background-color: #282a36 !important; }  .geMenubar { background-color: #6272a4 !important; }  html body .geSidebarContainer a, html body .geMenubarContainer a, html body .geToolbar a { color: #50fa7b !important; }  html body .geActivePage { color: #ff79c6 !important; border-bottom: 3px solid #ff79c6 !important; }  html body a.geStatus .geStatusAlertOrange { background-color: #ffb86c !important; border: #ff5555 !important; };",
     "ui": "dark",
     "styles": [
     {},
     {
         "commonStyle":
         {
-            "fontColor": "#ff79c6",
+            "fontColor": "#bd93f9",
             "strokeColor": "#bd93f9"
+        },
+        "edgeStyle":
+        {
+            "strokeColor": "#ff79c6"
         },
         "graph":
         {
-            "gridColor": "##8be9fd"
+            "background": "#282a36",
+            "gridColor": "#44475a"
+        }
+    },
+    {
+        "commonStyle":
+        {
+            "fontColor": "#f8f8f2",
+            "strokeColor": "#f1fa8c"
+        },
+        "vertexStyle":
+        {
+            "fillColor": "#bd93f9"
+        },
+        "graph":
+        {
+            "background": "#44475a",
+            "gridColor": "#8be9fd"
         }
     }]
 }

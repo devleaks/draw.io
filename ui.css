@@ -1,0 +1,25 @@
+.geMenubarContainer {
+    background-color: #282a36 !important;
+}
+
+.geMenubar {
+    background-color: #6272a4 !important;
+}
+
+html body .geSidebarContainer a,
+html body .geMenubarContainer a,
+html body .geToolbar a {
+    color: #50fa7b !important;
+}
+
+html body .geActivePage {
+    color: #ff79c6 !important;
+    border-bottom: 3px solid #ff79c6 !important;
+}
+
+html body a.geStatus .geStatusAlertOrange {
+    background-color: #ffb86c !important;
+    border: #ff5555 !important;
+}
+
+;
