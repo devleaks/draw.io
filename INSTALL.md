@@ -10,17 +10,19 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 Start draw.io.
 
-Select Extrat -> Theme -> Dark if not already done.
-
-Select menu Extra -> Configuration...
+Select menu Extras -> Configuration...
 
 ![Menu](./extras-configuration-menu.png)
 
 Copy the *content* of the file extra-configuration.json and paste it into the text area.
 
+![Configuration](./configuration.png)
+
 Press Apply.
 
 Restart draw.io.
+
+![Enjoy](./enjoy.png)
 
 Enjoy.
 
@@ -31,20 +33,20 @@ Set preset colors.
 
 Set preset styles.
 
-Ajusted a few UI colors.
+Ajusted a few UI colors where possible.
 
 
 ## Remove Dracula Presets
 
-Select menu Extra -> Configuration...
+Select menu Extras -> Configuration...
 
-Clear the *content* of text area.
+Clear the *content* of the text area.
 
-Press Apply.
+Press Reset. Confirm.
 
 Restart draw.io.
 
-## See Also
 
+## See Also
 
 [Configure the diagrams.net and draw.io editor](https://www.diagrams.net/doc/faq/configure-diagram-editor)
