@@ -49,7 +49,8 @@ Restart draw.io.
 
 ## See Also
 
-[Configure the diagrams.net and draw.io editor](https://www.diagrams.net/doc/faq/configure-diagram-editor)
+ - [Configure the diagrams.net and draw.io editor](https://www.diagrams.net/doc/faq/configure-diagram-editor)
+ - [Dracula color palette](https://draculatheme.com/contribute)
 
 
 ## Issues
