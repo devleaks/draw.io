@@ -14,6 +14,8 @@ Select Extrat -> Theme -> Dark if not already done.
 
 Select menu Extra -> Configuration...
 
+![Menu](./extras-configuration-menu.png)
+
 Copy the *content* of the file extra-configuration.json and paste it into the text area.
 
 Press Apply.
@@ -41,3 +43,8 @@ Clear the *content* of text area.
 Press Apply.
 
 Restart draw.io.
+
+## See Also
+
+
+[Configure the diagrams.net and draw.io editor](https://www.diagrams.net/doc/faq/configure-diagram-editor)
