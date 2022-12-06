@@ -50,3 +50,8 @@ Restart draw.io.
 ## See Also
 
 [Configure the diagrams.net and draw.io editor](https://www.diagrams.net/doc/faq/configure-diagram-editor)
+
+
+## Issues
+
+Some CSS selectors remain difficult to reach and modify. More later...
